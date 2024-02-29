@@ -47,9 +47,7 @@ In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a
 * Laptops present a mixed picture, contributing **33%** of revenue from just **6%** of orders. The company's heavy reliance on Apple products is evident, with Apple devices accounting for **50%** of revenue and **48%** of orders.
 
 ## Marketing and Sales Channel Evaluation:
-![marketing channels](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/c06b2c84-ce47-4021-8df7-0f563d0df2d8)
-
-![Purchase platform](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/c3190809-5bc2-4442-803a-4e6f8d3cd2f3)
+![Marketing   Sales Channel Analysis](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/assets/144157868/0a1fe6fb-d012-4387-b2f3-b67bba646095)
 
 * The 'direct' channel consistently leads in revenue generation, contributing to **82%** of total revenue and **77%** of total orders in 2022. Conversely, the 'social media' channel lags significantly, accounting for only **1%** of total revenue and orders.
   
