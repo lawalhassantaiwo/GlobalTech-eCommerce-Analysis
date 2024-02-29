@@ -24,7 +24,9 @@ GlobalTech-eCommerce's dataset comprises 108,130 records from the company's ERP 
 
 Data processing, transformation, and preliminary analysis were conducted in Excel, incorporating thorough data quality operations to address inconsistencies and missing data to ensure accuracy and transparency prior to Pivot Table based analysis. These included product naming inconsistencies, missing countries, additional required columns for analysis, and null values, all meticulously documented to maintain transparency as detailed **[here](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/blob/main/Issue%20Log%20Documentation.pdf)**. Subsequently, further SQL analysis was conducted to further uncover key sub-surface level insights.
 
-Tools used: **Excel**, **SQL**
+* Tools used: **Excel**, **SQL**
+* Steps taken to clean and prep the dataset for analysis can be found **[here](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/blob/main/Issue%20Log%20Documentation.pdf)**.
+* Workbook for analysis and more detailed insights can be found here.
 
 ## Insights Summary
 In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a sharp decline in revenue, orders, and average order value (AOV) ensued, likely due to post-COVID normalization. Annual revenue, orders placed, and AOV values dropped by **42%**, **36%**, and **9%** respectively compared to 2021. Despite this decline, analysis from 2019 to 2022 shows an average of **27K** yearly sales, generating **$7M** in revenue with an AOV of **$254**. Subsequent sections will delve into identifying additional factors potentially contributing to this decline, while also highlighting key areas of opportunity.
