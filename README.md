@@ -59,10 +59,6 @@ In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a
 ## Additional Insights - SQL-Based Technical Analyis
 Diving deeper into our dataset with SQL, our technical analysis uncovers the following additional vital insights for GlobalTech-eCommerce to assist in future strategic business decisions for stakeholders.
 
-SQL queries utilized to reveal the additional overarching insights are detailed in **[this section](url)**.
-
-Additionally, specific SQL queries uncovering insights on targeted business questions are detailed **[here.](url)**
-
 ### Evaluating  Revenue Performance by Region
 * North America (NA) and Europe, Middle East, and Africa (EMEA) regions collectively accounted for **over 80%** of total revenue, highlighting their dominance in driving sales. And while a slightly lower performance was observed in 2021, a stronger 2022 upsurge to **82%**, above the previous year 80% average, indicates there are no potential shifts in consumer behavior or market dynamics expected in the near future.
 
@@ -78,6 +74,10 @@ Additionally, specific SQL queries uncovering insights on targeted business ques
 * Shipping and delivery times have remained consistent since 2019, (averaging **3 days** and **14 days** respectively). However, without industry benchmarks, it's unclear how these compare against industry competition.
 
 * Interestingly, loyalty members experience the same delivery time as non-members (**14 days**), suggesting a potential area for improvement in delivery standards for higher value customers.
+
+SQL queries utilized to reveal the additional overarching insights are detailed in **[this section](url)**.
+
+Additionally, specific SQL queries uncovering insights on targeted business questions are detailed **[here.](url)**
 
 ## Recommendations
 Based on the comprehensive analysis conducted, the following recommendations are proposed for consideration by the company:
