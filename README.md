@@ -20,6 +20,9 @@ driving customer acquisition and revenue generation.
 
 
 ## Dataset Structure & Initial Checks
+
+![ERD](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/assets/144157868/eaecbb0a-208b-4e1b-9683-f6f3c3bb4148)
+
 GlobalTech-eCommerce's dataset comprises 108,130 records from the company's ERP system, organized into five tables: orders, customers, geo_lookup, order_status, and suppliers. The analysis process involved seamlessly integrating Excel and SQL techniques to uncover key actionable insights.
 
 Data processing, transformation, and preliminary analysis were conducted in Excel, incorporating thorough data quality operations to address inconsistencies and missing data to ensure accuracy and transparency prior to Pivot Table based analysis. These included product naming inconsistencies, missing countries, additional required columns for analysis, and null values, all meticulously documented to maintain transparency as detailed below. Subsequently, further SQL analysis was conducted to further uncover key sub-surface level insights.
