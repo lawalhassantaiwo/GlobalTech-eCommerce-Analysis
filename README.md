@@ -60,6 +60,7 @@ In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a
 Diving deeper into our dataset with SQL, our technical analysis uncovers the following additional vital insights for GlobalTech-eCommerce to assist in future strategic business decisions for stakeholders.
 
 SQL queries utilized to reveal the additional overarching insights are detailed in **[this section](url)**.
+
 Additionally, specific SQL queries uncovering insights on targeted business questions are detailed in **[this section](url)**
 
 ### Evaluating  Revenue Performance by Region
