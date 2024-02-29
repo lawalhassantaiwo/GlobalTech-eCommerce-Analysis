@@ -1,5 +1,6 @@
 ## Data Cleaning Documentation
 
+
 | Issue ID | Issue Description                                                                                  | Table                    | Issue Type       | Resolved | Resolution Notes                                          |
 |----------|----------------------------------------------------------------------------------------------------|--------------------------|------------------|----------|---------------------------------------------------------  |
 | 1        | Missing values in USER_ID column                                                                   | orders_data              | Missing Data     | Not yet  | Further investigation is required to determine the cause  |
