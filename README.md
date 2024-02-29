@@ -40,35 +40,14 @@ In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a
 * Average Order Value (AOV) exhibited stability overall, with notable spikes observed in specific months, particularly September and October of 2022. These spikes warrant further investigation to understand the underlying factors driving the unusual increase in AOV during these months, particularly outside of the context of the effects of the COVID-19 pandemic attributable to the early 2020 spike.
 
 ### Product Performance Highlights:
-
 ![Product Mix](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/960d2dc6-03a1-488f-8e56-51f0b1ab9bbe)
 
 * Three product SKUs of the eight offered by the business (desktop monitors, Bluetooth headphones, and Mac laptops) drive **85%** of revenue and **70%** of orders, indicating strong customer demand and significant contribution to overall sales. However, there are also underperformers like the Bose SoundSport Headphones, representing less than **1%** of total orders, despite it's cheaper pricing compared to the Airpods in the same product category.
 
 * Laptops present a mixed picture, contributing **33%** of revenue from just **6%** of orders. The company's heavy reliance on Apple products is evident, with Apple devices accounting for **50%** of revenue and **48%** of orders.
 
-### Loyalty Programme Evaluation:
-
-![Loyalty](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/9a4ca1fd-16a8-4c17-b39a-61cc6adf392c)
-  
-* Despite overall revenue and order counts being below 2019 levels, the loyalty program participants now represent the majority of both revenue (**55% up from 11%**) and order counts (**52% up from 12%**) in 2022, indicating their resilience to downward trends.
-
-* Regarding spend, Loyalty program members now spend **$31** more per transaction than non-members, highlighting the program's effectiveness in driving higher spending. Additionally, they request refunds **3.4%** more often, suggesting their willingness to explore new product
-
-* The 'direct' marketing channel serves as the main source for **78%** of loyalty program sign-ups for the business, highlighting its effectiveness in attracting and retaining higher value loyalty customers.
-
-### Operational Efficiency Observations:
-* Shipping and delivery times have remained consistent since 2019, (averaging **3 days** and **14 days** respectively). However, without industry benchmarks, it's unclear how these compare against industry competition.
-
-* Interestingly, loyalty members experience the same delivery time as non-members (**14 days**), suggesting a potential area for improvement in delivery standards for higher value customers.
-
-
 ## Marketing and Sales Channel Evaluation:
-
-_Marketing channels:_
 ![marketing channels](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/c06b2c84-ce47-4021-8df7-0f563d0df2d8)
-
-_Sales channels:_
 
 ![Purchase platform](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/c3190809-5bc2-4442-803a-4e6f8d3cd2f3)
 
@@ -100,5 +79,24 @@ _By Region:_
 ![Sales Performance by region](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/aade84c5-45b2-4810-a0b8-01f2ba84cc88)
 
 * North America (NA) and Europe, Middle East, and Africa (EMEA) regions collectively accounted for **over 80%** of total revenue, highlighting their dominance in driving sales. And while a slightly lower performance was observed in 2021, a stronger 2022 upsurge to **82%**, above the previous year 80% average, indicates there are no potential shifts in consumer behavior or market dynamics expected in the near future.
+
+----------------------------------------------------------------------------------------------------------------
+
+### Loyalty Programme Evaluation:
+
+![Loyalty](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/9a4ca1fd-16a8-4c17-b39a-61cc6adf392c)
+  
+* Despite overall revenue and order counts being below 2019 levels, the loyalty program participants now represent the majority of both revenue (**55% up from 11%**) and order counts (**52% up from 12%**) in 2022, indicating their resilience to downward trends.
+
+* Regarding spend, Loyalty program members now spend **$31** more per transaction than non-members, highlighting the program's effectiveness in driving higher spending. Additionally, they request refunds **3.4%** more often, suggesting their willingness to explore new product
+
+* The 'direct' marketing channel serves as the main source for **78%** of loyalty program sign-ups for the business, highlighting its effectiveness in attracting and retaining higher value loyalty customers.
+
+------------------------------------------------------------------------------------------------------------------
+
+### Operational Efficiency Observations:
+* Shipping and delivery times have remained consistent since 2019, (averaging **3 days** and **14 days** respectively). However, without industry benchmarks, it's unclear how these compare against industry competition.
+
+* Interestingly, loyalty members experience the same delivery time as non-members (**14 days**), suggesting a potential area for improvement in delivery standards for higher value customers.
 
 
