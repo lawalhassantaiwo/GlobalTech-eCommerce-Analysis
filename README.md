@@ -29,7 +29,7 @@ Data processing, transformation, and preliminary analysis were conducted in Exce
 * Tools used: **Excel**, **SQL**
 * Steps taken to clean and prep the dataset for analysis can be found **[here](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/blob/main/Issue%20Log%20Documentation.pdf)**.
 
-## Insights Summary
+## High-Level Insights Summary
 In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a sharp decline in revenue, orders, and average order value (AOV) ensued, likely due to post-COVID normalization. Annual revenue, orders placed, and AOV values dropped by **42%**, **36%**, and **9%** respectively compared to 2021. Despite this decline, analysis from 2019 to 2022 shows an average of **27K** yearly sales, generating **$7M** in revenue with an AOV of **$254**. Subsequent sections will delve into identifying additional factors potentially contributing to this decline, while also highlighting key areas of opportunity.
 
 ### Sales Performance Overview:
@@ -46,7 +46,7 @@ In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a
 
 * Laptops present a mixed picture, contributing **33%** of revenue from just **6%** of orders. The company's heavy reliance on Apple products is evident, with Apple devices accounting for **50%** of revenue and **48%** of orders.
 
-## Marketing and Sales Channel Evaluation:
+### Marketing and Sales Channel Evaluation:
 ![Marketing   Sales Channel Analysis](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/assets/144157868/0a1fe6fb-d012-4387-b2f3-b67bba646095)
 
 * The 'direct' channel consistently leads in revenue generation, contributing to **82%** of total revenue and **77%** of total orders in 2022. Conversely, the 'social media' channel lags significantly, accounting for only **1%** of total revenue and orders.
@@ -55,6 +55,7 @@ In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a
 
 * Orders through the company's mobile app is significant at **17%** of all placed orders, despite contributing only **3%** to total revenue and having a much lower AOV value compared to the overall average. This indicates potential for increased sales through targeted mobile app promotion campaigns.
 
+## Deeper Dive Insights - Advanced Technical Analyis
 
 ## Recommendations
 Based on the comprehensive analysis conducted, the following recommendations are proposed for consideration by the company:
