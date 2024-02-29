@@ -33,19 +33,11 @@ Data processing, transformation, and preliminary analysis were conducted in Exce
 In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a sharp decline in revenue, orders, and average order value (AOV) ensued, likely due to post-COVID normalization. Annual revenue, orders placed, and AOV values dropped by **42%**, **36%**, and **9%** respectively compared to 2021. Despite this decline, analysis from 2019 to 2022 shows an average of **27K** yearly sales, generating **$7M** in revenue with an AOV of **$254**. Subsequent sections will delve into identifying additional factors potentially contributing to this decline, while also highlighting key areas of opportunity.
 
 ### Sales Performance Overview:
-
-_By Periods:_
 ![Sales Performance2](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/03e4f6ca-fbf6-42b2-b283-a88aeb4deec8)
 
 * Sales trends between 2019-2022 reveal November and December as peak months, while March 2020 witnessed a surge likely triggered by the global COVID-19 outbreak. Conversely, February and October consistently showed lower sales figures, suggesting potential seasonality or external factors. In 2020, sales and revenue more than doubled compared to 2019, with sales being on average **31%** more expensive. However, despite further increase in sales in 2021, total revenue declined as items were sold at prices that were, on average, **15%** lower.
 
 * Average Order Value (AOV) exhibited stability overall, with notable spikes observed in specific months, particularly September and October of 2022. These spikes warrant further investigation to understand the underlying factors driving the unusual increase in AOV during these months, particularly outside of the context of the effects of the COVID-19 pandemic attributable to the early 2020 spike.
-
-_By Region:_
-
-![Sales Performance by region](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/aade84c5-45b2-4810-a0b8-01f2ba84cc88)
-
-* North America (NA) and Europe, Middle East, and Africa (EMEA) regions collectively accounted for **over 80%** of total revenue, highlighting their dominance in driving sales. And while a slightly lower performance was observed in 2021, a stronger 2022 upsurge to **82%**, above the previous year 80% average, indicates there are no potential shifts in consumer behavior or market dynamics expected in the near future.
 
 ### Product Performance Highlights:
 
@@ -97,5 +89,16 @@ Based on the comprehensive analysis conducted, the following recommendations are
 * Increase marketing resources towards customer retention and spending drivers among loyalty members. Benefits, such as faster delivery guarantees and exclusive discounts will incentivize customer loyalty, resulting in higher spending and repeat purchases.
 
 * Build stronger relationships with suppliers as a leverage for better pricing and terms to reduce costs and maintain healthy profit margins. Additionally, reliable suppliers ensure consistent product availability, preventing stock shortages and lost sales opportunities.
+
+
+
+
+**BROUGHTDOWNS**
+
+_By Region:_
+
+![Sales Performance by region](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce/assets/144157868/aade84c5-45b2-4810-a0b8-01f2ba84cc88)
+
+* North America (NA) and Europe, Middle East, and Africa (EMEA) regions collectively accounted for **over 80%** of total revenue, highlighting their dominance in driving sales. And while a slightly lower performance was observed in 2021, a stronger 2022 upsurge to **82%**, above the previous year 80% average, indicates there are no potential shifts in consumer behavior or market dynamics expected in the near future.
 
 
