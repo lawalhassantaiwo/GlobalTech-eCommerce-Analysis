@@ -1,20 +1,5 @@
+## Data Cleaning Documentation
 
-| Issue ID | Issue Description                                                                                  | Table                    | Issue Type       | Resolved | Resolution Notes                                          |
-|----------|----------------------------------------------------------------------------------------------------|--------------------------|------------------|----------|---------------------------------------------------------  |
-| 1        | Missing values in USER_ID column                                                                   | orders_data              | Missing Data     | Not yet  | Further investigation is required to determine the cause  |
-| 2        | Missing values in ORDER_ID column                                                                  | orders_data              | Missing Data     | Not yet  | Further investigation is required to determine the cause  |
-| 3        | Incomplete data in the country column                                                              | orders_data              | Inconsistent     | Not yet  | Investigation ongoing to identify missing country data    |
-| 4        | Null values found in the loyalty_program column                                                    | orders_data              | Missing Data     | Yes      | Null values interpreted as non-member and set to '0'      |
-| 5        | Null values found in the loyalty_program column                                                    | orders_data              | Missing Data     | Yes      | Null values interpreted as non-member and set to '0'      |
-| 6        | Non-standard formatting in ID columns                                                              | orders_data              | Formatting       | Yes      | ID columns formatted to standard numerical format         |
-| 7        | Erroneous value ("/N") in the PURCHASE_TS column                                                   | orders_data              | Inconsistent     | Yes      | Invalid value replaced with a blank                       |
-| 8        | Incorrect values found in the REFUND_TS column                                                     | orders_data              | Inconsistent     | Yes      | Invalid values set to blank                               |
-| 9        | Typographical errors identified in PRODUCT_NAME column                                             | orders_data              | Inaccurate Data  | Yes      | Typographical errors in '27in 4K Gaming Monitor' corrected|
-| 10       | Missing values in MARKETING_CHANNEL and ACCOUNT_CREATION_METHOD columns                            | orders_data              | Missing Data     | Yes      | Blank values filled with 'unknown' to ensure consistency  |
-| 11       | Duplicate entries detected in the ORDER_ID column                                                  | orders_data              | Duplicate        | Yes      | Duplicate order IDs removed                               |
-| 12       | Duplicate entries detected in the CUSTOMER_ID column                                               | orders_data              | Duplicate        | Yes      | Duplicate customer IDs removed                            |
-| 13       | Records featuring $0 transactions identified                                                       | orders_data              | Inaccurate Data  | Yes      | Rows with $0 transactions removed                         |
-| 14       | Incorrect data type (date instead of timestamp) in the purchase_ts column                          | tradeease.orders         | Data Type        | Yes      | Column aliased to 'purchase_date' for clarity             |
-| 15       | Incorrect data type (date instead of timestamp) in the ship_ts column                              | tradeease.order_status   | Data Type        | Yes      | Column aliased to 'ship_date' for clarity                 |
-| 16       | Incorrect data type (date instead of timestamp) in the delivery_ts column                          | tradeease.order_status   | Data Type        | Yes      | Column aliased to 'delivery_date' for clarity             |
-| 17       | Incorrect data type (date instead of timestamp) in the refund_ts column                            | tradeease.order_status   | Data Type        | Yes      | Column aliased to 'refund_date' for clarity               |
+| Issue ID | Issue Description | Table | Issue Type | Resolved | Resolution Notes |
+| -------- | ----------------- | ----- | --------------------- | ---------------- |
+| 1        | Missing values in USER_ID column | orders_data | Missing Data | Not yet | Further investigation is required to determine the cause |
