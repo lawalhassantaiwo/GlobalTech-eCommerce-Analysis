@@ -21,7 +21,7 @@ driving customer acquisition and revenue generation.
 
 ## Dataset Structure & Initial Checks
 
-![ERD](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/assets/144157868/eaecbb0a-208b-4e1b-9683-f6f3c3bb4148)
+![ERD2](https://github.com/lawalhassantaiwo/GlobalTech-eCommerce-Analysis/assets/144157868/d04bd931-37f2-4597-b540-8edefbdcd0e4)
 
 GlobalTech-eCommerce's dataset comprises 108,130 records from the company's ERP system, organized into five tables: orders, customers, geo_lookup, order_status, and suppliers. The analysis process involved seamlessly integrating Excel and SQL techniques to uncover key actionable insights.
 
