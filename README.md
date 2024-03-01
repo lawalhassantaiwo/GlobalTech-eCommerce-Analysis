@@ -77,7 +77,7 @@ Diving deeper into our dataset with SQL, our technical analysis uncovers the fol
 
 SQL queries utilized to reveal the additional overarching insights are detailed in **[this section](url)**.
 
-Additionally, specific SQL queries uncovering insights on targeted business questions are detailed **[here.](url)**
+Additionally, specific SQL queries uncovering targeted business insights are detailed **[here.](url)**
 
 ## Recommendations
 Based on the comprehensive analysis conducted, the following recommendations are proposed for consideration by the company:
