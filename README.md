@@ -57,6 +57,7 @@ In 2020, GlobalTech-eCommerce experienced explosive growth, but by Q1 of 2022, a
 * Orders through the company's mobile app is significant at **17%** of all placed orders, despite contributing only **3%** to total revenue and having a much lower AOV value compared to the overall average. This indicates potential for increased sales through targeted mobile app promotion campaigns.
 
 
+
 ## Additional Insights - SQL-Based Technical Analyis
 Diving deeper into our dataset with SQL, our technical analysis uncovers the following additional vital insights for GlobalTech-eCommerce to assist in future strategic business decisions for stakeholders. While all important, we have identified the most relevant of these key insights for stakeholder consideration and detailed them below:
 
